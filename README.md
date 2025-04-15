@@ -21,7 +21,7 @@ This project visualizes the spread of COVID-19 cases across counties in Kenya us
 1. **Clone the Repo**
    ```bash
    git clone https://github.com/yourusername/covid-kenya-qgis.git
-   cd covid-kenya-qgis
+   cd kenya-covid19-map/
 
 ![Kenya_Covid_datamap](https://github.com/user-attachments/assets/eb148056-48aa-4a02-a28b-453cf966a820)
 
